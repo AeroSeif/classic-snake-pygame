@@ -14,6 +14,16 @@ This is a simple, classic version of the Snake game where the snake grows longer
 
 ---
 
+## 📂 Files Overview
+
+- **main.py** – The main game loop and window handler.
+- **food.py** – Handles food placement logic.
+- **snake.py** – Manages snake behavior and movement.
+- **scoreboard.py** – Displays and updates the player's score.
+- **data.txt** – Stores high score or game data.
+- **requirement.txt** – Lists the required Python libraries (pygame).
+
+
 ## 🖥️ How to Run the Game
 
 ### 1. Clone the repository:
