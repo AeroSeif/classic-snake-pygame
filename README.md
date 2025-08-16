@@ -51,7 +51,7 @@ cd classic-snake-pygame
 ## Install Dependencies ##
 In the same Command Prompt window, run:
 
-pip install -r requirements.txt
+cd classic-snake-pygame
 
 ## Run the Game ##
 Finally, launch the game:
